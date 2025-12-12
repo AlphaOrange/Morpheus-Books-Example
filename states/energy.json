@@ -1,0 +1,12 @@
+{
+  "name": "Energie",
+  "start": 800,
+  "change_per_hour": -40,
+  "events": [
+    {
+      "trigger-under": 200,
+      "restore-over": 500,
+      "text": "{char_self} fallen langsam die Augen zu vor Müdigkeit"
+    }
+  ]
+}

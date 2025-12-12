@@ -1,0 +1,12 @@
+{
+  "name": "Hunger",
+  "start": 200,
+  "change_per_hour": 60,
+  "events": [
+    {
+      "trigger-over": 500,
+      "restore-under": 500,
+      "text": "{char_self} verspürt leichtes Magengrummeln"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Chrais",
+  "isPlayable": false,
+  "isNSC": true,
+  "description": "Chrais is a pure AI character, he cannot be played by a human player. He works in the bar.",
+  "gender": "male",
+  "age": 40,
+  "image": "",
+  "profession": "Bartender",
+  "load_states": [],
+  "load_agendas": [],
+  "start": {
+    "destination": "othertown",
+    "location": "tavern",
+    "room": "room1"
+  }
+}
