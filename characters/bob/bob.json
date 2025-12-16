@@ -5,7 +5,7 @@
   "description": "This is Bob. He's also very generic and he doesn't even have an image, you see a fallback image instead.",
   "gender": "male",
   "age": 32,
-  "image": "",
+  "image": "bob.jpg",
   "profession": "Nurse",
   "load_states": ["energy"],
   "load_agendas": [],

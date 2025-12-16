@@ -5,7 +5,7 @@
   "description": "This is Alice. She's a rather generic character, but at least she has a cool image.",
   "gender": "female",
   "age": 27,
-  "image": "alice.png",
+  "image": "alice.jpg",
   "profession": "Adventurer",
   "load_states": ["energy"],
   "load_agendas": ["get_rich"]
