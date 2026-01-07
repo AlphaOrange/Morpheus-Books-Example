@@ -1,4 +1,5 @@
 {
   "name": "The Town",
-  "position": [5,5]
+  "position": [5,5],
+  "detour": 0
 }

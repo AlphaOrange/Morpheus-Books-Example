@@ -2,6 +2,7 @@
   "name": "Another Town",
   "description": "Just another town in the wilderness",
   "position": [0,0],
+  "detour": 0,
   "entry": "",
   "image": "othertown.jpg"
 }
