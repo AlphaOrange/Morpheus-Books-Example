@@ -4,10 +4,10 @@
   "tags": ["sinister", "exciting"],
   "cover": "cover.jpg",
   "start": {
-    "destination": "othertown",
+    "destination": "nexustown",
     "location": "tavern",
     "room": "room1",
     "datetime": "2020-03-01 10:00:00",
-    "introduction": "You just entered Zo's Tavern, where the social life of Another Town takes places. If you want to know what's going on in this dystopian world, this is the place to be!"
+    "introduction": "You just entered Zo's Tavern, where the social life of Nexus Town takes places. If you want to know what's going on in this dystopian world, this is the place to be!"
   }
 }

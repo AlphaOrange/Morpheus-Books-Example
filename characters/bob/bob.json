@@ -16,7 +16,7 @@
   "load_states": ["energy"],
   "load_agendas": [],
   "start": {
-    "destination": "othertown",
+    "destination": "nexustown",
     "location": "tavern",
     "room": "room1"
   }
