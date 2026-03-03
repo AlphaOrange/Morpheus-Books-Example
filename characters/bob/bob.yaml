@@ -1,0 +1,28 @@
+---
+name: Bob
+isPlayable: true
+isNPC: true
+description: >-
+  This is Bob. He's also very generic and he doesn't even have an image,
+  you see a fallback image instead.
+gender: male
+age: 32
+image: bob.jpg
+profession: Nurse
+body: >-
+  tall, strong build, short curly black hair with an undercut, striking eyebrows, dark eyes
+mind: attentive, helpful, intelligent
+language: calm, soothing, sometimes mumble under mask if unsure, sarcastic remarks
+clothing: worn open leather jacket, underneath a gray hoodie, black face mask
+appearance: well-groomed appearance, older worn clothing, slightly exhausted look
+background: >-
+  your parents died early and you have achieved everything in life through
+  your own efforts
+wants: you want to help others in need, so they have it easier in life than you did
+load_states:
+- energy
+load_agendas: []
+start:
+  destination: nexustown
+  location: tavern
+  room: room1
