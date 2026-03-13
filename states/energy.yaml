@@ -1,8 +1,0 @@
----
-name: Energie
-start: 800
-change_per_hour: -40
-events:
-- trigger-under: 200
-  restore-over: 500
-  text: "{char_self}'s eyes are slowly closing from exhaustion"

@@ -1,0 +1,10 @@
+---
+name: Town Hotel
+description: >-
+  The three-story hotel is the most striking feature of the cityscape.
+  The facade is dilapidated, some windows boarded up.
+  Uncertain when it was last fully booked.
+position: [3, 0]
+detour: 0
+entry: lobby
+image: 'hotel.jpg'

@@ -1,0 +1,7 @@
+---
+name: Corner Shop
+description: The small shop has a wild display window, water bottles alongside household robots, chocolate bars next to copper cables.
+position: [0, 3]
+detour: 0
+entry: salesroom
+image: 'shop.jpg'

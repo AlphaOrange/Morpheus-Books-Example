@@ -1,18 +1,23 @@
 ---
+version:
+  book: 0.4.0
+  morpheus: 0.4.0
 title: Electric City
 description: >-
-  This is an example book used for testing the app. It contains characters
-  and locations and all the mechanics of a real Morpheus book, but it's rather dull.
+  On your journey through the Static Plains you enter Electric City, one of the
+  hubs scattered throughout the plains. Visit the hub's places and get to know
+  the eerie residents that live under the permanent buzzing of the land lines.
 tags:
-- sinister
-- exciting
+- scifi
+- eerie
+- explore
 cover: cover.jpg
 start:
-  destination: nexustown
-  location: tavern
-  room: room1
-  datetime: '2020-03-01 10:00:00'
+  destination: electriccity
+  location: bar
+  room: taproom
+  datetime: '2064-03-01 18:45:00'
   introduction: >-
-    You just entered Zo's Tavern, where the social life of Nexus Town
-    takes places. If you want to know what's going on in this dystopian world, this
-    is the place to be!
+    You just arrived at Electric City, a tiny spot of human civilization inmidst
+    the endless plains. Exhausted from your travel, this is a place to stay, at least
+    for the night.

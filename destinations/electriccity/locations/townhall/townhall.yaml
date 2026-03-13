@@ -1,0 +1,9 @@
+---
+name: Town Hall
+description: >-
+  The city administration is located in this gleaming steel building.
+  The hum of the air conditioning fills the air.
+position: [5, 4]
+detour: 0
+entry: entrance
+image: 'townhall.jpg'

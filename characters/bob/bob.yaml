@@ -3,8 +3,9 @@ name: Bob
 isPlayable: true
 isNPC: true
 description: >-
-  This is Bob. He's also very generic and he doesn't even have an image,
-  you see a fallback image instead.
+  Growing up without parents, Bob learned early on to appreciate the care of strangers
+  and later decided to give something back to the world.
+  As a nurse, he helps those in need who live far away from the mega hubs and have no access to medical care.
 gender: male
 age: 32
 image: bob.jpg
@@ -19,10 +20,9 @@ background: >-
   your parents died early and you have achieved everything in life through
   your own efforts
 wants: you want to help others in need, so they have it easier in life than you did
-load_states:
-- energy
+load_states: []
 load_agendas: []
 start:
-  destination: nexustown
-  location: tavern
-  room: room1
+  destination: electriccity
+  location: bar
+  room: taproom

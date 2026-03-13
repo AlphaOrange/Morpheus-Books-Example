@@ -1,0 +1,10 @@
+---
+name: City Greenhouse
+description: >-
+  Dense vegetation grows under bright neon lights,
+  humidity hangs in the air and drips from the ceiling.
+  The greenhouse supplies the city with real food.
+position: [0, 6]
+detour: 1
+entry: garden
+image: 'greenhouse.jpg'

@@ -3,8 +3,9 @@ name: Alice
 isPlayable: true
 isNPC: false
 description: >-
-  This is Alice. She's a rather generic character, but at least she has
-  a cool image.
+  Alice is an intelligent young woman who decided to leave the golden cage of her parents' home
+  and explore whether there really is nothing beyond the walls of her hometown.
+  Since then, she has been roaming the Static Plains and making new friends.
 gender: female
 age: 27
 image: alice.jpg
@@ -17,7 +18,5 @@ background: >-
   you come from an upper-class family, you've had a good education, and
   your childhood was marked by parental love but also little freedom
 wants: you want to find out if there is more to life than it currently seems to you
-load_states:
-- energy
-load_agendas:
-- get_rich
+load_states: []
+load_agendas: []

@@ -1,0 +1,10 @@
+---
+name: Electric City
+description: >-
+  A small hub in the Electric Plains, inhabited by only a few human souls.
+  Land lines connect all houses, the air is buzzing with static,
+  no one is out on the streets.
+position: [0, 0]
+detour: 0
+entry: street
+image: electriccity.jpg
