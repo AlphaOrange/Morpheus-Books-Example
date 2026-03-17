@@ -1,22 +1,23 @@
 ---
 version:
-  book: 0.4.0
+  book: 0.4.1
   morpheus: 0.4.0
+author: Stefan Tewes
 title: Electric City
 description: >-
   On your journey through the Static Plains you enter Electric City, one of the
   hubs scattered throughout the plains. Visit the hub's places and get to know
   the eerie residents that live under the permanent buzzing of the land lines.
 tags:
-- scifi
-- eerie
-- explore
+  - scifi
+  - eerie
+  - explore
 cover: cover.jpg
 start:
   destination: electriccity
   location: bar
   room: taproom
-  datetime: '2064-03-01 18:45:00'
+  datetime: "2064-03-01 18:45:00"
   introduction: >-
     You just arrived at Electric City, a tiny spot of human civilization inmidst
     the endless plains. Exhausted from your travel, this is a place to stay, at least
