@@ -1,13 +1,13 @@
 ---
 version:
-  book: 0.4.1
-  morpheus: 0.4.0
+  book: 0.5.0
+  morpheus: 0.5.0
 author: Stefan Tewes
 title: Electric City
-description: >-
-  On your journey through the Static Plains you enter Electric City, one of the
-  hubs scattered throughout the plains. Visit the hub's places and get to know
-  the eerie residents that live under the permanent buzzing of the land lines.
+description: |-
+  After a long journey through the Static Plains you finally arrive at Electric City. What sounds like a glorious buzzing metropolis, turns out to be just another aging hub like all the others scattered throughout the plains. Well, at least its buzzing. Who are the people still living in such a god-forsaken place?
+
+  In this cyberpunk-style book you can visit Electric City's most electrifying places and chat with its eerie residents, getting to know the people who are still there.
 tags:
   - scifi
   - eerie
@@ -20,5 +20,5 @@ start:
   datetime: "2064-03-01 18:45:00"
   introduction: >-
     You just arrived at Electric City, a tiny spot of human civilization inmidst
-    the endless plains. Exhausted from your travel, this is a place to stay, at least
+    the endless plains. Exhausted from your travel, this hub is a place to stay, at least
     for the night.
