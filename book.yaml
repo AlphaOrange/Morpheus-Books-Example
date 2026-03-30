@@ -1,7 +1,11 @@
 ---
 version:
-  book: 0.5.0
-  morpheus: 0.5.0
+  book: 0.6.0
+  morpheus: 0.6.0
+features:
+  - maps
+  - move
+  - talk
 author: Stefan Tewes
 title: Electric City
 description: |-
@@ -17,7 +21,7 @@ start:
   destination: electriccity
   location: bar
   room: taproom
-  datetime: "2064-03-01 18:45:00"
+  datetime: '2064-03-01 18:45:00'
   introduction: >-
     You just arrived at Electric City, a tiny spot of human civilization inmidst
     the endless plains. Exhausted from your travel, this hub is a place to stay, at least
