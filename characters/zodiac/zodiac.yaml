@@ -3,9 +3,7 @@ name: Zodiac
 isPlayable: false
 isNPC: true
 description: >-
-  After an accident nearly ripped him apart, Zodiac lives as a Bionic,
-  half human being, half machine. He found a new calmer life in a bar,
-  where he loves to share stories from his former life of adrenalin and speed.
+  The barkeeper with a bionic arm - half human being, half machine
 gender: male
 age: 40
 image: zodiac.jpg

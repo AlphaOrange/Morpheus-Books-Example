@@ -1,11 +1,12 @@
 ---
 version:
-  book: 0.6.0
-  morpheus: 0.6.0
+  book: 0.7.0
+  morpheus: 0.7.0
 features:
   - maps
   - move
   - talk
+  - visual
 author: Stefan Tewes
 title: Electric City
 description: |-
@@ -26,3 +27,6 @@ start:
     You just arrived at Electric City, a tiny spot of human civilization inmidst
     the endless plains. Exhausted from your travel, this hub is a place to stay, at least
     for the night.
+options:
+    minPlayerChars: 1
+    maxPlayerChars: 2
