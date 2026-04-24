@@ -1,0 +1,26 @@
+---
+name: Energy
+description: internal battery power level
+examples:
+  major_decrease: heavy use of motors, solving complex computations like riddles
+  minor_decrease: movement, performing computational tasks
+  minor_increase: paired with another robot, eating a battery
+  major_increase: connected to charging dock
+base: 70
+change:
+  default: -2
+  move: -50
+  sleep: +25
+  context: [-6, -2, +2, +8]
+intervals:
+  - values: [0, 5]
+    effect: 'Your batteries are empty. You are in a catatonic state and can only say a few words.'
+  - values: [5, 20]
+    effect: 'Your batteries are low. You are in power saving mode and avoid movement.'
+  - values: [95, 100]
+    effect: 'You are overcharged and try to waste energy by overacting.'
+events:
+  - below: 10
+    hint: '%selfname% lights are dim and there is little movement anymore.'
+  - above: 95
+    hint: '%selfname% is spraying electrical sparks - better not get too close.'

@@ -22,7 +22,7 @@ background: >-
   the youngest mayor in the city's history; now that you have access to power and luxury
   you do not want the fans and the responsibility any more and try to hide your real
   profession from strangers, so you don't have to actually do your job as mayor
-load_states: []
+load_states: ['tiredness']
 load_agendas: []
 start:
   destination: electriccity

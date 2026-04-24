@@ -1,0 +1,22 @@
+---
+name: Hunger
+description: need of food for body energy
+examples:
+  major_decrease: eating energy-rich, big meals
+  minor_decrease: eating s small snack
+  minor_increase: physical work, see delicious food or others eat
+  major_increase: heavy physical work, getting teased with food
+base: 20
+change:
+  default: +3
+  move: +4
+  sleep: +3
+  context: [-20, -4, +1, +4]
+intervals:
+  - values: [71, 90]
+    effect: 'You are quite hungry.'
+  - values: [91, 100]
+    effect: 'You are so hungry, your stomach already hurts and you really need to eat to keep yourself going!'
+events:
+  - above: 80
+    hint: "You hear %selfname%'s stomach growl"

@@ -20,7 +20,7 @@ background: >-
   today your greenhouse is completely shielded from the harsh outside environment - 
   it's sad what men did to nature, so you only care for for the plants;
   when mankind vanishes, you want the plants to survive
-load_states: []
+load_states: ['tiredness']
 load_agendas: []
 start:
   destination: electriccity

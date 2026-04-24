@@ -1,10 +1,11 @@
 ---
 version:
-  book: 0.7.0
-  morpheus: 0.7.0
+  book: 0.8.0
+  morpheus: 0.8.0
 features:
   - maps
   - move
+  - states
   - talk
   - visual
 author: Stefan Tewes
@@ -28,5 +29,9 @@ start:
     the endless plains. Exhausted from your travel, this hub is a place to stay, at least
     for the night.
 options:
-    minPlayerChars: 1
-    maxPlayerChars: 2
+  minPlayerChars: 1
+  maxPlayerChars: 2
+  talkDuration: 30
+  moveDurationRoom: 60
+  moveDurationLocation: 60 # 1 min per 1 unit
+  moveDurationDestination: 3600 # 1 hour per 1 unit

@@ -1,0 +1,30 @@
+---
+name: Tiredness
+description: exhaustion due to physical or mental activity
+examples:
+  major_decrease: stimulants, energy drinks, thrill, huge excitement
+  minor_decrease: refreshment, something spiking new interest
+  minor_increase: listening to uninteresting speeches, doing work
+  major_increase: heavy physical or mental work, sleeping pills
+base: 10
+change:
+  default: +4
+  move: +5
+  sleep: -8
+  context: [-4, -2, +1, +2]
+intervals:
+  - values: [0, 20]
+    effect: 'You are full of energy.'
+  - values: [61, 70]
+    effect: 'You begin to feel tired.'
+  - values: [71, 80]
+    effect: 'You are tired and yawn occasionally.'
+  - values: [81, 90]
+    effect: 'You are so tired, you cannot think straight and or stop yawning.'
+  - values: [91, 100]
+    effect: 'You desperately need to sleep. You can no longer think or do anything except going to sleep.'
+events:
+  - above: 76
+    hint: '%selfname% yawns and looks tired.'
+  - above: 95
+    hint: '%selfname% can hardly keep their sleepy eyes open anymore.'

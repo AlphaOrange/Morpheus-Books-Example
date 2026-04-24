@@ -24,7 +24,7 @@ appearance: well-groomed appearance, older worn clothing, slightly exhausted loo
 background: >-
   your parents died early and you have achieved everything in life through
   your own efforts, so you decided to help others so they have it easier than you had
-load_states: []
+load_states: ['tiredness', 'hunger']
 load_agendas: []
 start:
   destination: electriccity

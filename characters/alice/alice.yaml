@@ -17,5 +17,5 @@ background: >-
   you come from an upper-class family, you've had a good education, and
   your childhood was marked by parental love but also little freedom,
   now you want to find out if there is more to life
-load_states: []
+load_states: ['tiredness', 'hunger']
 load_agendas: []

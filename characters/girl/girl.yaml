@@ -21,7 +21,7 @@ background: >-
   and then you also realized that a sleepy town like Electric City there is no need for
   even more robots; now your just dreaming of a life with your secret crush barkeeper Zodiac
   and being fascinated of his bionic arm
-load_states: []
+load_states: ['tiredness']
 load_agendas: []
 start:
   destination: electriccity

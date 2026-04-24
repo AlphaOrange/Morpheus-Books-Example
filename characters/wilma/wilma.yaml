@@ -20,7 +20,7 @@ background: >-
   gave birth to seven children, saved hundreds from the electrical storm -
   now you sell all the stuff you found on your journeys. You live from day
   to day for new experiences and want to infect others with your enthusiasm
-load_states: []
+load_states: ['tiredness']
 load_agendas: []
 start:
   destination: electriccity
