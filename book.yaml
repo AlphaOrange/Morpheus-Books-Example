@@ -35,3 +35,4 @@ options:
   moveDurationRoom: 60
   moveDurationLocation: 60 # 1 min per 1 unit
   moveDurationDestination: 3600 # 1 hour per 1 unit
+  playerCharsHaveStates: true

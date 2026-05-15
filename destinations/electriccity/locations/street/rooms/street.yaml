@@ -3,4 +3,4 @@ name: Main Street
 description: >-
   The main street leads to all the important places of the town: hotel, bar, shop, the town hall.
   There isn't really much more.
-image: 'street.jpg'
+image: '/street.jpg'
