@@ -22,6 +22,7 @@ background: >-
   you used to be an adrenaline junkie and race car driver, which almost
   cost you your life, you found inner peace in your own bar sharing your stories
   and hear new ones to keep everyone entertained and excited
+activity: 150
 load_states: ['tiredness']
 load_agendas: []
 start:
