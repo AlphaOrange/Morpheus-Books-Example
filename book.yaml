@@ -28,6 +28,8 @@ start:
     You just arrived at Electric City, a tiny spot of human civilization inmidst
     the endless plains. Exhausted from your travel, this hub is a place to stay, at least
     for the night.
+style:
+  narration: Use it sparse and concise and sprinkle in futuristic lingo from time to time.
 options:
   minPlayerChars: 1
   maxPlayerChars: 2
