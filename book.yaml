@@ -25,9 +25,9 @@ start:
   room: taproom
   datetime: '2064-03-01 18:45:00'
   introduction: >-
-    You just arrived at Electric City, a tiny spot of human civilization inmidst
+    %players% just arrived at Electric City, a tiny spot of human civilization inmidst
     the endless plains. Exhausted from your travel, this hub is a place to stay, at least
-    for the night.
+    for the night. They now enter the only bar in the city: Zo's Tavern.
 options:
   minPlayerChars: 1
   maxPlayerChars: 2
