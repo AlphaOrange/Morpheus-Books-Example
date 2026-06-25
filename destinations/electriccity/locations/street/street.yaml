@@ -1,7 +1,8 @@
 ---
 name: Main Street
-description: Actually Electric City's only real street, leading through the town, fading into dried out ground beyond the borders.
+description: >-
+  The main street leads to all the important places of the town: hotel, bar, shop, the town hall.
+  There isn't really much more.
 position: [3, 2]
 detour: 0
-entry: street
 image: '/street.jpg'
