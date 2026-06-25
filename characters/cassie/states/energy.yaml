@@ -24,3 +24,4 @@ events:
     hint: '%selfname% lights are dim and there is little movement anymore.'
   - above: 95
     hint: '%selfname% is spraying electrical sparks - better not get too close.'
+regenerable: true

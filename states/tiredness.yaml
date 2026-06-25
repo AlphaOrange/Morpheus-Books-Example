@@ -28,3 +28,4 @@ events:
     hint: '%selfname% yawns and looks tired.'
   - above: 95
     hint: '%selfname% can hardly keep their sleepy eyes open anymore.'
+regenerable: true
