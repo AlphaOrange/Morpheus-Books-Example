@@ -1,7 +1,7 @@
 ---
 version:
-  book: 0.8.0
-  morpheus: 0.8.0
+  book: 0.9.0
+  morpheus: 0.9.0
 features:
   - maps
   - move
@@ -30,7 +30,7 @@ start:
     for the night. They now enter the only bar in the city: Zo's Tavern.
 style:
   narration: Use it sparse and concise and sprinkle in futuristic lingo from time to time.
-options:
+settings:
   minPlayerChars: 1
   maxPlayerChars: 2
   talkDuration: 30
@@ -38,3 +38,10 @@ options:
   moveDurationLocation: 60 # 1 min per 1 unit
   moveDurationDestination: 3600 # 1 hour per 1 unit
   playerCharsHaveStates: true
+options:
+  - tag: kara
+    description: Include Cyber Detective Kara
+    default: false
+  - tag: shop
+    description: Include the Shop
+    default: true
