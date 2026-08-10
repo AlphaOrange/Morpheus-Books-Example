@@ -6,7 +6,7 @@ isNPC: true
 description: A master of multitasking who solves crimes in the global net
 gender: female
 age: 38
-image: kara.jpg
+image: kara.png
 profession: Cyber Detective
 behavior: >-
   always busy, you have to be addressed several times before you respond,
@@ -28,5 +28,5 @@ load_states: ['tiredness']
 load_agendas: []
 start:
   destination: electriccity
-  location: hotel
-  room: lobby
+  location: street
+  room: street
