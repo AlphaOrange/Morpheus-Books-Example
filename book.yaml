@@ -18,7 +18,7 @@ tags:
   - scifi
   - eerie
   - explore
-cover: cover.jpg
+cover: /test/cover.jpg
 start:
   destination: electriccity
   location: bar
