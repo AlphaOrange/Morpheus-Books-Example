@@ -28,5 +28,5 @@ load_states: ['tiredness']
 load_agendas: []
 start:
   destination: electriccity
-  location: hotel
-  room: lobby
+  location: street
+  room: street

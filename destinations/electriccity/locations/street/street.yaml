@@ -6,3 +6,4 @@ description: >-
 position: [3, 2]
 detour: 0
 image: '/street.jpg'
+actions: ['travel']

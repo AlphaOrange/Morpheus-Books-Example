@@ -1,0 +1,7 @@
+---
+name: Oasis Bunker
+description: An empty bunker room under the oasis. Humming, dust, darkness.
+position: [0, 0]
+detour: 0
+image: bunker.jpg
+actions: ['sleep', 'travel']

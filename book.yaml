@@ -26,7 +26,7 @@ start:
   datetime: '2064-03-01 18:45:00'
   introduction: >-
     %players% just arrived at Electric City, a tiny spot of human civilization inmidst
-    the endless plains. Exhausted from your travel, this hub is a place to stay, at least
+    the endless plains. Exhausted from their travel, this hub is a place to stay, at least
     for the night. They now enter the only bar in the city: Zo's Tavern.
 style:
   narration: Use it sparse and concise and sprinkle in futuristic lingo from time to time.
@@ -41,7 +41,7 @@ settings:
 options:
   - tag: kara
     description: Include Cyber Detective Kara
-    default: false
+    default: true
   - tag: shop
     description: Include the Shop
     default: true

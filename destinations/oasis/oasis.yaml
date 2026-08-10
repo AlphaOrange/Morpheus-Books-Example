@@ -1,0 +1,9 @@
+---
+name: Oasis
+description: >-
+  A tiny satellite hub of Electric City inmidst the Electric Plains.
+  Just a bunker under some fake trees that emit a constant humming sound.
+position: [4, 0]
+detour: 0
+entry: bunker
+image: oasis.jpg
